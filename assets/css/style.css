@@ -1,0 +1,37 @@
+@media (min-width: 992px) {
+  aside#services {
+    margin-left: 112px!important;
+  }
+}
+
+
+
+.masthead {
+  background-image: url('../../assets/img/header.jpg');
+  padding: 16px;
+  margin-top: 92px;
+  margin-right: 16px;
+  margin-bottom: 16px;
+  margin-left: 16px;
+  border-radius: 32px;
+  box-shadow: -12px 12px 20px 0px rgba(160,158,158,0.25), 14px -12px 20px 0px rgb(234,234,234), 0px 0px 20px 0px rgb(164,164,164);
+  color: rgba(255,255,255,0.23);
+}
+
+.card-cont {
+ 
+  margin-right: 16px;
+  margin-bottom: 16px;
+  margin-left: 16px;
+  border-radius: 32px;
+  box-shadow: -14px 16px 28px -16px rgba(0,0,0,0.25), 0px 0px 12px -2px rgba(240,95,64,0.21);
+  -20px 20px 60px #bebebe,             20px -20px 60px #ffffff;: rgba(255,255,255,0.23);
+
+}
+
+.img-fluid {
+  border-radius: 12px;
+  padding: 10px;
+}
+
+
